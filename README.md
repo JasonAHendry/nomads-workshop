@@ -11,7 +11,7 @@ In order to get started you will have to install `git` and `conda`.
 Once you have completed steps 1. and 2., you should be able to clone this repository and install the conda environment. Using terminal, navigate to a folder where you keep your bioinformatics projects. Then type:
 
 ```
-git clone https://github.com/JasonAHendry/fwd-dream.git
+git clone https://github.com/JasonAHendry/nomads-workshop.git
 cd nomads-workshop
 conda env create
 ```
