@@ -1,0 +1,22 @@
+name: nomads
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.7
+  - porechop
+  - minimap2
+  - samtools=1.9=h8ee4bcc_1
+  - bedtools
+  - pysam
+  - scikit-allel
+  - jupyter
+  - scipy=1.4
+  - seaborn
+  - r=3.6.0
+  - r-irkernel
+  - r-ggplot2
+  - r-cowplot
+  - r-dplyr
+  - r-reshape2
+  - r-tidyr
